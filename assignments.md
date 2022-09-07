@@ -45,4 +45,7 @@ What I'd like you to do is build a composition - could be a variation
 of one of these existing sketches, could be something wholey new from
 you.  The constraints are:
 
-1.
+1. Color should be a major component
+2. You should choose the colors yourself either to be pleasing, or to
+   express some idea.  Include a brief discussion in the comments
+   about why you chose the colors you did.

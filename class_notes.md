@@ -134,3 +134,7 @@ If we adjust lightness, we'll move any non maxed up or the all of them down.
 If we adjust saturation to something other than the max though, we
 introduce the idea of "muddy" colors that can be equally "bright" but
 not as "pure".
+
+# How to signup
+
+https://forms.gle/Q4L6SaLvWaF8r9it8
