@@ -138,3 +138,85 @@ not as "pure".
 # How to signup
 
 https://forms.gle/Q4L6SaLvWaF8r9it8
+
+# Class 2: Daily Pages & Shapes & Transforms
+
+## Checkin with students
+
+Names, share your first assignment if you want, and how the coding felt.
+
+## Daily pages
+
+  "I am up and have a headache and have taken asprin and feel a little
+  better although still shaky.  I may have the ful after all.  I am
+  getting to the bottom of a lot of unpacking and still no teapot from
+  Laura whom I am sorely missing.  What a heartbreak..."
+
+*3 daily pages of handwritten writing, written stream of consciousness*
+
+Key notes:
+
+* There is no "topic" for the daily pages
+
+* They are not meant to be art, or even writing
+
+* Nothing is too silly to be written
+
+* They can be what you don't think you should allow yourself to be
+  (e.g. self-pitying, mean to others, etc.)
+    
+* Never skip them (especially not based on your mood)
+
+* Do not share your daily pages.  Usually do not read your daily pages.
+
+* "An inner source of wisdom"?
+
+### Self honesty
+
+I think they represent an opportunity to honestly think with yourself.
+I think oftentimes we restrict ourselves from total thought (with good
+reason, sometimes) but I think that it is important to explore our
+total thoughts.
+
+When I am debugging seriously, I have a mantra - "first understand the
+problem".  Not allowing doubt, not allowing "solutions".
+
+I think this kind of forced thought becomes habitual - and when
+habitual it doesn't serve us.
+
+## Shapes & Grids
+
+https://editor.p5js.org/generative-design/sketches/H1Klcc5ay4
+
+https://editor.p5js.org/generative-design/sketches/HJ3gqcq6kN
+
+https://editor.p5js.org/generative-design/sketches/ryklecq9Ty4
+
+https://editor.p5js.org/generative-design/sketches/B1egg99cTy4
+
+https://editor.p5js.org/generative-design/sketches/SkMel5qcakE
+
+https://editor.p5js.org/generative-design/sketches/S1Qelc5qaJE
+
+Hint: there are always many more variations that I don't show you!
+
+## Transforms
+
+https://editor.p5js.org/generative-design/sketches/ByDlgcq9a1V
+
+    function drawRect() {
+      rect(-10, -5, 20, 10);
+    }
+
+    function draw() {
+      background(220);
+      translate(375, 20);
+      for(i = 0; i < 300; i++) {
+        drawRect();
+        translate(0,15);
+        //rotate(.1);
+        //scale(.98);
+      }
+      
+      
+    }
