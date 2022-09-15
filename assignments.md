@@ -49,3 +49,25 @@ you.  The constraints are:
 2. You should choose the colors yourself either to be pleasing, or to
    express some idea.  Include a brief discussion in the comments
    about why you chose the colors you did.
+   
+# Assignment 2: Shape/Grids
+
+Build an art peace that utilized shapes or grids as a primary
+component, potentially starting from one of these:
+
+https://editor.p5js.org/generative-design/sketches/H1Klcc5ay4
+
+https://editor.p5js.org/generative-design/sketches/HJ3gqcq6kN
+
+https://editor.p5js.org/generative-design/sketches/ryklecq9Ty4
+
+https://editor.p5js.org/generative-design/sketches/B1egg99cTy4
+
+https://editor.p5js.org/generative-design/sketches/SkMel5qcakE
+
+https://editor.p5js.org/generative-design/sketches/S1Qelc5qaJE
+
+Try to make the shape/grid convey some idea or emotion - and include
+what you were trying to capture in the comments.
+
+Consider starting with the Daily Pages if you wish!
