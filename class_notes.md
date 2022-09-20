@@ -220,3 +220,63 @@ https://editor.p5js.org/generative-design/sketches/ByDlgcq9a1V
       
       
     }
+
+# Class 3: Mazes and Artist Date
+
+
+## Artists Date
+
+An artist date is a block of time, perhaps 2 hours weekly especially
+set aside to nurture your creative consciousness.
+
+* A great junk store
+
+* A solo trip to the beach
+
+* Watch an old movie
+
+
+Is this something that makes sense for programmers?
+
+## Mazes
+
+So I want to talk about mazes!  They're a fun programming problem.
+
+I'm going to talk about 2 algorithms for perfect unbiased mazes:
+
+    * perfect: no cycles, single path between any pair of nodes
+    
+    * unbiased: any maze is equally likely
+    
+### Aldous-Broder Algorithm
+
+1. Start somewhere, mark it as visited
+
+2. Move to a random neighboring square
+
+3. If this square hasn't been visited square, "carve the passage" into
+   the maze
+   
+4. Go to 2
+
+Use the moodle PDF for some diagrams
+
+Here's my implementation:
+
+https://editor.p5js.org/hewner/sketches/H0gVqsSFH
+
+### Wilson's Algorithm
+
+1.  Mark a random square as visited
+
+2.  Go to another random square which is unvisited
+
+3.  Make a tentative random walk
+
+4.  If in the process of this walk you visit a square twice, remove
+    the loop
+    
+5.  Once you reach a visited square, carve that path into the map and
+    mark the whole path as visited
+
+6.  Go to 2

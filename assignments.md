@@ -71,3 +71,20 @@ Try to make the shape/grid convey some idea or emotion - and include
 what you were trying to capture in the comments.
 
 Consider starting with the Daily Pages if you wish!
+
+# Assignment 3: Mazes
+
+Do some artistic composition featuring mazes.  You could
+
+* Implement Wilson's algorithm
+
+* Do a modification of my Aldous-Broder Algorithm.  For example there
+  is a modification that prioritizes mazes with long passageways by
+  always preferring to connect to unvisited nodes.  Just always start
+  your walk on an existing path and connect to that or your maze won't
+  be connected.
+  
+* Make some more artistic mazes.  You could block off certian squares
+  to create a shape for example
+  
+Anything you like - with mazes.
