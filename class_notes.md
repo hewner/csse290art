@@ -280,3 +280,65 @@ https://editor.p5js.org/hewner/sketches/H0gVqsSFH
     mark the whole path as visited
 
 6.  Go to 2
+
+
+# Class 4
+
+## Negativity and Affirmations
+
+Cameron in her book talks about how parents want to be "practical" and
+don't want to nurture their artistic talents.  I don't think there's
+any parents discouraging students from taking computer science from
+practical reasons.
+
+But I do think that a lot of computer science can be approached from a
+too practical perspective and it unintentionally does harm.  Let me
+talk about OO Design Patterns and Christopher Alexander for a bit.
+
+In short we turn this activity to something about expedience.  Easy to
+do in classes talking about grades and jobs.
+
+I think a bigger source of trouble though comes from comparisons to
+others.
+
+Do you ever get the feeling like your programs are not good?
+
+### Affirmations
+
+Cameron suggests combatting these feelings daily affirmations.  Her
+list has a ton of stuff about God but one I particularly liked for
+myself was this one:
+
+My creativity heals myself and others.
+
+I would write this one over and over at times.  I'd also reflect on it
+intellectually.
+
+I think it's important that it feel *almost* wrong to you.  Touching
+on the border of your inner critic.  Here's another to talk about:
+
+I am allowed to nurture my artist.
+
+Here's some from the web it you don't want to dig into The Artists Way.
+
+https://zannakeithley.com/affirmations-for-artists/
+
+I'd encourage you to find a few or a lot that feel *odd* to you, and
+incorporate them into your daily practice.
+
+## Generators: 1D Cellular Automata
+
+Cellular automata are a simplified "model" of computing that also can
+look cool.
+
+https://elife-asu.github.io/wss-modules/modules/1-1d-cellular-automata/
+
+https://mathworld.wolfram.com/ElementaryCellularAutomaton.html
+
+Rule 110 "Universal Computation"
+
+https://observablehq.com/@akngs/wolframs-cellular-automata-rule-rule
+
+My Example More Colorful Automata
+
+https://editor.p5js.org/hewner/sketches/6HNHJxV9C

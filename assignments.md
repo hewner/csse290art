@@ -88,3 +88,16 @@ Do some artistic composition featuring mazes.  You could
   to create a shape for example
   
 Anything you like - with mazes.
+
+# Assignment 4: Make a 1D Cellular Automata
+
+...with at least 3 colors.  Could be a modification of my rules here:
+
+https://editor.p5js.org/hewner/sketches/6HNHJxV9C
+
+Could be an automata you find elsewhere and thinks look pretty so you
+tweak it.  Could be one you design intentially.
+
+You can program it directly, or there are some generator tools you can
+find where you can enter your own rules.  Either is fine with me.  Just
+be sure to include the picture that results.
