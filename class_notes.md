@@ -342,3 +342,65 @@ https://observablehq.com/@akngs/wolframs-cellular-automata-rule-rule
 My Example More Colorful Automata
 
 https://editor.p5js.org/hewner/sketches/6HNHJxV9C
+
+# Class 5
+
+## Can my friends help me?
+
+"Do not expect your blocked friends to applaud your recovery.  That's
+like expecting your best friends from the bar to celebrate your
+sobriety.  How can they when their own drinking is something they want
+to hold on to?"
+
+* Being sad is very relatable.  If I'm feeling overworked or exhausted
+  I can commiserate with my friend who works on a farm, my wife who is
+  a musician, etc.  Its easy to form a bond about sharing your
+  troubles.
+  
+* Being inspired is very unique.  When I'm feeling inspired you maybe
+  can only understand me if you're heavy into the area of CS I'm
+  interested it.  Even if you are, it can feel a little silly.
+  
+* "Doing the work" is almost always something you're doing alone.
+  Even if your with someone who does what you want to do, it can
+  easily feel like they're demanding a lot of you.
+  
+
+## 2D Cellular Automata
+
+Similar to the 1D automata from last time, we can consider a 2D automata.
+
+A cell looks at its neighbors in the current generation and uses that
+to determine what color it will be in the next generation.
+
+One thing to note about these kind of automata is that there are way
+more rules, which makes them kind of hard to program.  Our regular 3
+looking 2 color 1D automata - you can specify the rule system with 8
+bits (2^3 = 8).  256 automata to enumerate.
+
+For the usual 9 neighbor automata there are 2^9 (512) bits to specify.
+WAY too many to enumerate.
+
+
+### Classic CS - Game of life
+
+Game of life restricts the rules to depend only on the sum of "on"
+neighbors.
+
+https://playgameoflife.com/
+
+
+## Simple rules - complex aggregate behavior
+
+Walk in a random direction
+
+https://editor.p5js.org/generative-design/sketches/ByZZgqcqpk4
+
+Walk starting from a circle
+
+https://editor.p5js.org/generative-design/sketches/HkrbeqqqTJV
+
+pick a point then add a new circle to the nearest existing circle in the
+direction of that point.
+
+https://editor.p5js.org/generative-design/sketches/BkDbecq5TyE

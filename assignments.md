@@ -101,3 +101,14 @@ tweak it.  Could be one you design intentially.
 You can program it directly, or there are some generator tools you can
 find where you can enter your own rules.  Either is fine with me.  Just
 be sure to include the picture that results.
+
+# Assignment 5: Complex aggregate behavior
+
+Create any artistic piece where there are "agents" that follow simple
+rules to in aggregate produce the piece.  You could build a 2D
+cellular automata with different rules (or hell, even recreate GOL if
+you like).  You could start from the processing examples in the last
+class.
+
+Include a comment so I can understand how the simple rules generate
+the complex picture.
