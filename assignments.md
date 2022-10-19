@@ -112,3 +112,21 @@ class.
 
 Include a comment so I can understand how the simple rules generate
 the complex picture.
+
+# Assignment 6: The Mandelbrot
+
+So this lecture I'd like you to focus on feeling your feelings a bit -
+and it's a good time for it, approaching week 8.  So while you're
+welcome to write code on any project you desire - for this assignment,
+don't write code and instead explore the mandelbrot.  Use a tool that
+calculates the mandelbrot locally like this one:
+
+https://sourceforge.net/projects/quickman/
+
+Find 4 images for me - as different as they can be.  But try to draw
+them from a large set - spend your time exploring and reflect on what
+you're seeing from an emotional perspective.
+
+Beyond that, just give some time to yourself and permission to think
+forbidden thoughts.  I'd encourage you to try the morning pages this
+week, if you haven't done them before.

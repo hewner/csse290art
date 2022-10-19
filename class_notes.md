@@ -404,3 +404,43 @@ pick a point then add a new circle to the nearest existing circle in the
 direction of that point.
 
 https://editor.p5js.org/generative-design/sketches/BkDbecq5TyE
+
+# Class 6
+
+## Being OK & Stuckness
+
+To get through any period of stress - we need to hold it together and
+be OK with things - and ideally not feel what you're feeling.
+Sometimes we have no choice but to do this - but it's not a good
+thing.
+
+Story about my wife, hospital, and COVID.
+
+Story about student failing csse220.
+
+As we explore through morning pages we want to feel what we're
+feeling.  We don't necessary have to act on them - yet.  But we should
+have an expectation of discovering stuff that isn't in line with our
+vision about ourself.
+
+## Fractals
+
+So fractals very broadly are the geometry of infinitely iterated
+functions.  So f(x) f(f(x)) f(f(f(x))) rather than what we normally do
+which is f(1) f(2) f(3).
+
+## Julia sets & Mandelbrot are based on these equations
+
+*Mandelbrot set*
+
+z0 = 0
+Zn+1 = (Zn)^2 + c
+
+c is position on the graph
+
+*Julia sets*
+
+z0 position on the graph
+Zn+1 = (Zn)^2 + c
+
+c is fixed for a particular julia set
