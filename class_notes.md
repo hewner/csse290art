@@ -444,3 +444,46 @@ z0 position on the graph
 Zn+1 = (Zn)^2 + c
 
 c is fixed for a particular julia set
+
+# Class 7
+
+## Criticism & The Mourning of Lost Programs
+
+    It has been my perilous privilege over the past decade to undertake
+    teaching forays into the groves of academia.  It is my experience as a
+    visiting artist that many academics are themselves artistic beings who
+    are deeply frustrated by their inability to create.  Skilled in
+    intellectual discourse, distanced by that intellectual skill from
+    their own creative urgings, they often find the creativity of their
+    charges deeply disturbing.
+
+I think in an engineering context this problem is actually worse,
+insofar as we focus so much on learning the practice there's no
+opportunity for creativity at all.
+
+And when we are creative, its often in a very self deprecating context.
+
+In CS our computers are often our harshest critics...but there are
+plenty of mean people too.
+
+We're going to have to deal with our losses - come to terms with them.
+
+* Not all criticism is well founded.  Not all broken programs were the wrong approach.
+
+* Bad code, failed programs prepares us to write functioning programs
+
+* Setbacks help us identify what we really love, what we really want
+
+* We can and should persue many angles
+
+## L Systems
+
+Hilbert curve in p5js
+
+https://en.wikipedia.org/wiki/Hilbert_curve
+
+Ideas of L systems
+
+https://en.wikipedia.org/wiki/L-system
+
+http://www.kevs3d.co.uk/dev/lsystems/#
