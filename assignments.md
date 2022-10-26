@@ -130,3 +130,12 @@ you're seeing from an emotional perspective.
 Beyond that, just give some time to yourself and permission to think
 forbidden thoughts.  I'd encourage you to try the morning pages this
 week, if you haven't done them before.
+
+# Assignment 7: L-Systems
+
+Build some sort of art using L-Systems, either coding a classic
+l-system yourself (maybe based on this starting code?
+https://editor.p5js.org/hewner/sketches/oZZ1D8r-F ).  Or by using an
+existing L system generator like this one (
+http://www.kevs3d.co.uk/dev/lsystems/# ).
+
