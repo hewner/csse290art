@@ -489,3 +489,39 @@ Ideas of L systems
 https://en.wikipedia.org/wiki/L-system
 
 http://www.kevs3d.co.uk/dev/lsystems/#
+
+# Class 8: The Test
+
+    
+    There's this time for blastoff, like a NASA space launch, and you're
+    heading for it when *wham* you draw to you the Test...It's like when
+    you're all set to marry the nice guy, the one who treats you right,
+    and Mr. Poison gets wind of it and phones you up.
+
+Story about how I once gave some accurate advice, and it didn't turn
+out exactly how I wanted.
+
+Story about Object Oriented Programming, and Christopher Alexander,
+and the difference between engineering and Art.
+
+* I very much believe that programming can be an art - even the
+  programming that does not make art
+  
+* I think there's a lot of forces that discourage our exploration of
+  programming as an artform - most notably being paid to make things
+  as boring as possible.  Which is a much more nuanced thing than you
+  think!
+  
+    - in short, it's a good thing for software systems, bad thing for
+      people
+
+    - but even well meaning managers of people (and there are those
+      who are not) are incentivized to build reliable software systems
+      and not happy people
+
+* But I really don't want to be in the business of pushing you towards
+  programming if it is not working for you
+  
+## Boids
+
+https://p5js.org/examples/simulate-flocking.html
